@@ -15,7 +15,7 @@
         example.m
 
 ### Array distributions
-![Array distributions](https://raw.githubusercontent.com/rookiepeng/Non-Uniform-Array/master/img/distributions.png)
+![Array distributions](https://github.com/rookiepeng/Matlab-Snippets/blob/master/Non-Uniform-Array/img/distributions.png)
 
 ### Far-field patterns
-![Far-field patterns](https://raw.githubusercontent.com/rookiepeng/Non-Uniform-Array/master/img/patterns.png)
+![Far-field patterns](https://github.com/rookiepeng/Matlab-Snippets/blob/master/Non-Uniform-Array/img/patterns.png)
