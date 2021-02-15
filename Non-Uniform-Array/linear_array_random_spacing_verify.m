@@ -70,7 +70,7 @@ for kk=1:r
     
     if max(abs(A_SL*w))<10^(-10/20)
         resultd_verify(count,:)=d;
-        resultw_verify(count,:)=w';
+        resultw_verify(count,:)=w.';
         resultSLL_verify(count)=max(abs(A_SL*w));
         resultSLL_main(count)=resultSLL(kk);
         save('resultd_verify.mat', 'resultd_verify');
