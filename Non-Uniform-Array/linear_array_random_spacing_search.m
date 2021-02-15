@@ -86,7 +86,7 @@ d=[0,d,spacingMIN*2 + (spacingMAX*2-spacingMIN*2).*rand(1),d];
     
     if max(abs(A_SL*w))<10^(-10/20)
         resultd(count,:)=d;
-        resultw(count,:)=w';
+        resultw(count,:)=w.';
         resultSLL(count)=max(abs(A_SL*w));
         save('resultd.mat', 'resultd');
         save('resultw.mat', 'resultw');
